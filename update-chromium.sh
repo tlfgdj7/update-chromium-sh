@@ -6,4 +6,4 @@ sudo apt install chromium-browser
 
 sudo apt install chromium-browser-l10n
 sudo apt install chromium-codecs-ffmpeg
-sudo apt install chromium-codecs-ffmpeg
+sudo apt install chromium-codecs-ffmpeg-extra
